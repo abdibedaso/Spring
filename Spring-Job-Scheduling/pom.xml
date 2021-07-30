@@ -14,7 +14,7 @@
     <artifactId>Spring-Job-Scheduling</artifactId>
     <packaging>pom</packaging>
 
-    <name>Spring-Hibernate</name>
+    <name>Spring-Job-Scheduling</name>
     <description>Spring Hibernate Application</description>
 
     <modules>
