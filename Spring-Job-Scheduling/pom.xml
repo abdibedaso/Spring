@@ -19,6 +19,7 @@
 
     <modules>
         <module>Spring-Job-Scheduling-Billing-App</module>
+        <module>Spring-Job-Scheduling-Bank-App</module>
     </modules>
 
     <properties>
