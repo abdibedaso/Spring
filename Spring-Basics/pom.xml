@@ -18,9 +18,9 @@
     <description>Basic Spring Application</description>
 
     <modules>
-        <module>Annotation-Configuration</module>
-        <module>Java-Configuration</module>
-        <module>XML-Configuration</module>
+        <module>Spring-Basics-Annotation-Configuration</module>
+        <module>Spring-Basics-Java-Configuration</module>
+        <module>Spring-Basics-XML-Configuration</module>
     </modules>
 
     <build>
