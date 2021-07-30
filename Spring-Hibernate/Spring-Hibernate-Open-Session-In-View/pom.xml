@@ -3,7 +3,7 @@
 
     <parent>
         <groupId>com.geekcolab.development</groupId>
-        <artifactId>Spring</artifactId>
+        <artifactId>Spring_Hibernate</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
@@ -13,7 +13,7 @@
     <name>Spring-Hibernate-Open-Session-In-View</name>
     <artifactId>Spring-Hibernate-Open-Session-In-View</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <properties>
         <java.version>1.8</java.version>

@@ -20,6 +20,7 @@
     <modules>
         <module>Spring-Hibernate-Annotation-Configuration</module>
         <module>Spring-Hibernate-XML-Configuration</module>
+        <module>Spring-Hibernate-Open-Session-In-View</module>
     </modules>
 
     <properties>
