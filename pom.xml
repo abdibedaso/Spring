@@ -17,6 +17,7 @@
         <module>Spring-Basics</module>
         <module>Spring-Hibernate</module>
         <module>Spring-Hibernate-Open-Session-In-View</module>
+        <module>Spring-Job-Scheduling</module>
     </modules>
 
     <properties>
