@@ -22,8 +22,6 @@ jobs:
             enhancement
             automerge
   stale:
-    needs: analyze
-
     runs-on: ubuntu-latest
     permissions:
       issues: write
