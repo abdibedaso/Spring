@@ -3,21 +3,25 @@ Spring-powered, production-grade applications and services with absolute minimum
 
 ## Modules
 
-1. Spring-Basics
-   - Spring Basics Annotation Configuration
-   - Spring Basics Java Configuration
-   - Spring Basics XML Configuration
+Spring-Basics
+- Spring Basics Annotation Configuration
+- Spring Basics Java Configuration
+- Spring Basics XML Configuration
 
+Spring-Boot
+- Spring-Hello-World
+- Spring-JPA
+- Spring-Mongo
+- Spring-Redis
    
-2. Spring-Hibernate
-   - Spring Hibernate Annotation Configuration
-   - Spring Hibernate XML Configuration
-   - Spring Hibernate Open Session In View
-
+Spring-Hibernate
+- Spring Hibernate Annotation Configuration
+- Spring Hibernate XML Configuration
+- Spring Hibernate Open Session In View
    
-4. Spring-Job-Scheduling
-    - Spring Job Scheduling Bank Application
-    - Spring Job Scheduling Billing Application
+Spring-Job-Scheduling
+- Spring Job Scheduling Bank Application
+- Spring Job Scheduling Billing Application
     
 ## Setup
 
