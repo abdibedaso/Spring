@@ -17,7 +17,10 @@ on:
     types:
       - completed
   status: {}
-  
+  workflow_run:
+    workflows: ["Create main promotion pull request"]
+    types:
+      - completed
 jobs:
   automerge:
     runs-on: ubuntu-latest
